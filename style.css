@@ -1,0 +1,93 @@
+html, body {
+ color: grey;
+  backgrounlor: black;
+  margin: 3px;
+  margin-bottom: 30px;
+  font-family: "Edu AU VIC WA NT Guides", cursive;
+  
+}
+.inicio{
+  background: red(229,113,113);
+   rfont-size: 35PX;
+  margin: 10PX;
+  padding: 3em;
+  display: flex;
+  border-radius: 30px;
+  box-shadow: 2px 5px 5px gray;
+  
+}
+
+header{
+  font-family: "Protest Strike", sans-serif; 
+  color: black;
+  display: flex;
+  position: relative;
+  margin: 20PX;
+  padding: 0PX;
+  font-size: 80PX;
+  border-bottom; solid 2PX black;
+    
+}
+
+p{
+  text-align: justify;
+}
+
+.video{
+  margin-right: 50PX;
+  align-items: center;
+}
+ 
+header img{
+  width: 400px;
+  height: 200px;
+  margin-left: 400px;
+}
+
+.batata{
+  align-content: center;
+}
+
+h1{
+  front-size: 40px;
+  color:red(134,86,134);
+  border-bottom: solid 3px white;
+}
+
+
+.clipe{
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
+
+.clipes img{
+  height: 200px;
+  opacity: 0.5;
+}
+
+.clipes img:hover{
+  opacity: 1.0;
+  border: solid 4px black;
+  box-shadow: 2px 4px 4px green;
+}
+
+footer{
+  font-family: "Protest Strike", sans-serif;
+  color: rgb(134,86,134);
+  align-content: center;
+  align-items: center;
+  position: Flixed;
+  bottom: 0;
+  width: 100%;
+  neight: 2em;
+  padding: 20px;
+  Font-size: 1.5rem;
+  display: block;
+  margin: 0 auto;
+  padding-left: 450px
+  background-color: rgba(255, 192, 255, 0.562);
+}
+
+
+
